@@ -3,8 +3,9 @@ package znet
 import (
 	"encoding/json"
 	"fmt"
-	"getty/ziface"
 	"net"
+
+	"github.com/lomoye/getty/ziface"
 )
 
 //IServer的接口实现，定义一个Server的服务器模块

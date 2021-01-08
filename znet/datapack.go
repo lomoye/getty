@@ -3,7 +3,8 @@ package znet
 import (
 	"bytes"
 	"encoding/binary"
-	"getty/ziface"
+
+	"github.com/lomoye/getty/ziface"
 )
 
 //封包、拆包的具体模块

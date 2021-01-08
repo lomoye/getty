@@ -3,9 +3,10 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"getty/utils"
-	"getty/ziface"
-	"getty/znet"
+
+	"github.com/lomoye/getty/utils"
+	"github.com/lomoye/getty/ziface"
+	"github.com/lomoye/getty/znet"
 )
 
 /*

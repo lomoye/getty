@@ -1,7 +1,7 @@
 package znet
 
 import (
-	"getty/ziface"
+	"github.com/lomoye/getty/ziface"
 )
 
 type Request struct {

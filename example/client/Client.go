@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"getty/znet"
 	"io"
 	"net"
 	"time"
+
+	"github.com/lomoye/getty/znet"
 )
 
 /*

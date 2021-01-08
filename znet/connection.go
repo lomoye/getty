@@ -3,10 +3,11 @@ package znet
 import (
 	"errors"
 	"fmt"
-	"getty/ziface"
 	"io"
 	"net"
 	"sync"
+
+	"github.com/lomoye/getty/ziface"
 )
 
 /*

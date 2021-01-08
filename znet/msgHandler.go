@@ -2,8 +2,9 @@ package znet
 
 import (
 	"fmt"
-	"getty/ziface"
 	"strconv"
+
+	"github.com/lomoye/getty/ziface"
 )
 
 /*

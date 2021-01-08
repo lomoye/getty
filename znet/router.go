@@ -1,6 +1,6 @@
 package znet
 
-import "getty/ziface"
+import "github.com/lomoye/getty/ziface"
 
 //实现router时，先嵌入这个BaseRouter基类，然后根据这个基类的方法进行重写就好
 type BaseRouter struct{}

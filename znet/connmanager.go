@@ -3,8 +3,9 @@ package znet
 import (
 	"errors"
 	"fmt"
-	"getty/ziface"
 	"sync"
+
+	"github.com/lomoye/getty/ziface"
 )
 
 //链接管理模块
